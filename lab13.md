@@ -118,4 +118,5 @@ wherego()寻找食物函数:
     }
 
 最后展示一下我的成果:
+
 ![](https://github.com/MuaJacky/swi-homework/raw/gh-pages/lab13/snake-AI.gif)
